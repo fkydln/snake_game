@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="100f863a-a38d-442d-bcd4-b9200ffcd388" name="Changes" comment="Snake body is created">
-      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+    <list default="true" id="100f863a-a38d-442d-bcd4-b9200ffcd388" name="Changes" comment="Snake body can move up, down, right and left.&#10;&#10;Snake body cannot move opposite direction as it's not allowed in the official game.">
+      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -89,11 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709277330279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Snake body can move up, down, right and left.&#10;&#10;Snake body cannot move opposite direction as it's not allowed in the official game.">
+      <option name="closed" value="true" />
+      <created>1709409933306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709409933306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Snake body is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake body is created" />
+    <MESSAGE value="Snake body can move up, down, right and left.&#10;&#10;Snake body cannot move opposite direction as it's not allowed in the official game." />
+    <option name="LAST_COMMIT_MESSAGE" value="Snake body can move up, down, right and left.&#10;&#10;Snake body cannot move opposite direction as it's not allowed in the official game." />
   </component>
 </project>
